@@ -3,10 +3,6 @@
 
 ## 1. 登陆验证  ##
 
-#### 登陆验证地址  ####
-
-http://new.login.nikugame.com/json
-
 #### 请求方式	####
 
 POST
